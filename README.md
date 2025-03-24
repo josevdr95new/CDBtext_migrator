@@ -20,3 +20,4 @@ Actualiza automáticamente el campo `name` de la tabla `texts` manteniendo la in
 - **Bibliotecas nativas**:  
   ```bash
   sqlite3 | shutil | os | datetime
+  python cdbtext_migrator.py
