@@ -3,20 +3,6 @@
 **Script para sincronizar textos entre archivos `.cdb` (inglés → español)**  
 Actualiza automáticamente el campo `name` de la tabla `texts` manteniendo la integridad de los datos.
 
----
-
-## 📌 Tabla de Contenidos
-- [Funcionalidad](#✨-funcionalidad)
-- [Requisitos](#⚙️-requisitos)
-- [Estructura de Carpetas](#📂-estructura-de-carpetas)
-- [Instrucciones](#🚀-instrucciones)
-- [Tablas Modificadas](#🔧-tablas-modificadas)
-- [Ejemplo de Logs](#📝-ejemplo-de-logs)
-- [Advertencias](#⚠️-advertencias)
-- [Licencia](#📄-licencia)
-
----
-
 ## ✨ Funcionalidad
 - ✅ **Transferencia de textos**:  
   Reemplaza el campo `name` en archivos `.cdb` en español con los valores de la versión inglesa.
