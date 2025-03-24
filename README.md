@@ -4,7 +4,7 @@ Este script transfiere los campos "name" de una base de datos SQLite en inglés 
 
 ## 📋 Requisitos Previos
 - Python 3.x instalado.
-- Archivos de base de datos `en_cards.cdb` y `es_cards.cdb` en el mismo directorio que el script.
+- Archivos de base de datos `en_cards.cdb` (otras db compatibles entre ellas) y `es_cards.cdb` en el mismo directorio que el script.
 - **¡Haz backup de ambas bases de datos antes de ejecutar el script!**
 
 ## 🚀 Cómo Usar
