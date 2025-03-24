@@ -21,7 +21,7 @@ Actualiza automáticamente el campo `name` de la tabla `texts` manteniendo la in
   ```bash
   sqlite3 | shutil | os | datetime
   ```
- ## Ejecutar el script:
+ ## 😊 Ejecutar el script:
   ```bash
   python cdbtext_migrator.py
    ```
