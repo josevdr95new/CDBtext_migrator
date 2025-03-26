@@ -25,5 +25,5 @@ Actualiza automáticamente el campo `name` de la tabla `texts` manteniendo la in
   ```bash
   python cdbtext_migrator.py
    ```
-## cdb full
+ ## 📂 Español-Alternativo
 https://github.com/josevdr95new/cdbespa-alternativo
