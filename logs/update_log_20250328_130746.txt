@@ -1,6 +1,0 @@
-Registro de actualización - 2025-03-28 13:07:46
-=============================================
-
-Procesando: cards.cdb
-
-Archivos procesados: 1
