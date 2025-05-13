@@ -1,5 +1,11 @@
 # 🛠️ Migrador de Textos CDB (SQLite)
 
+Cartas en español https://github.com/Team13fr/IgnisMulti
+
+Cartas en ingles  https://github.com/ProjectIgnis/BabelCDB
+
+
+
 **Script para sincronizar textos entre archivos `.cdb` (inglés → español)**  
 Actualiza automáticamente el campo `name` de la tabla `texts` manteniendo la integridad de los datos.
 
